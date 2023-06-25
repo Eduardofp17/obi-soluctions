@@ -6,7 +6,6 @@ int main(){
     int x, y, z;
     int idadeDeCamila;
     cin >> x >> y >> z;
-    cout << freopen("input.txt", "r", stdin);
     if(x >= y && x <= z)
     {
         idadeDeCamila = x;

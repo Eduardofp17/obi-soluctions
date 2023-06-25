@@ -17,4 +17,3 @@ int main(){
   cout << AmoutToPay;
   return 0;
 }
-//done
